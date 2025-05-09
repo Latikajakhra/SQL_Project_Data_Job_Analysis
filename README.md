@@ -135,13 +135,13 @@ ORDER BY associated_avgsalary DESC
 LIMIT 10
 ```
 Here's a breakdown of the results for top paying skills for data analysts:
--**svn**
--**solidity**
--**couchbase**
--**datarobot**
--**golang**
+- **svn**
+- **solidity**
+- **couchbase**
+- **datarobot**
+- **golang**
 
-### 5. Moat optimal skills to learn
+### 5. Most optimal skills to learn
 Combining insights from demand and salary data, this query aimed to pinpoint skills that are both in high demand and high paying offering a strategic focus for skills development.
 
 ```sql
@@ -186,10 +186,10 @@ ORDER BY total_associated_jobs DESC,
 LIMIT 25
 ```
 Here's a breakdown of the most optimal skills for data analysts in 2023:
--**Programing languages :** sql, pyhton , r
--**Cloud Tools and technologies :** Snoflake , azure , AWS , etc.
--**Business Intelligence and visualization tools:** Tableau, power bi
--**Database technologies:** server , sql server, oracle,etc.
+- **Programing languages :** sql, pyhton , r
+- **Cloud Tools and technologies :** Snoflake , azure , AWS , etc.
+- **Business Intelligence and visualization tools:** Tableau, power bi
+- **Database technologies:** server , sql server, oracle,etc.
 
 # What I learned
 
